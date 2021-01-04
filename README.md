@@ -2,4 +2,6 @@ The ngrok tunnel address of this local server keep changing anytime I have reaso
 
 For today, the address available to access the rocket chat server is https://9efc1d035cb5.ngrok.io
 
-Thank you for understanding
+Every other process in the attached document remain the same.
+
+Thank you for understanding.
